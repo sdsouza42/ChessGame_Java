@@ -1,0 +1,13 @@
+public enum moveType {
+    PAWN_MOVE,
+    PAWN_DOUBLE_MOVE,
+    PAWN_CAPTURE,
+    PAWN_EN_PASSANT,
+    KNIGHT_MOVE,
+    BISHOP_MOVE,
+    ROOK_MOVE,
+    QUEEN_MOVE,
+    KING_MOVE,
+    KING_CASTLE,
+    PROMOTION
+}
